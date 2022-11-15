@@ -1,0 +1,16 @@
+.black-nav {
+    display: flex;
+    background: black;
+    width: 100%;
+    height: 10vh;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9vw;
+}
+
+#title{
+    color:white;
+    margin-left:1.5vw;
+}
+
